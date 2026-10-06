@@ -17,7 +17,7 @@ More: [About the series](docs/about-the-series.md) · [How to take part and cont
 - **When:** every other Friday, 14:00–15:20
 - **Where:** Informatikksalen, 5th floor, [Ole-Johan Dahls hus](https://www.uio.no/om/regelverk/eiendom/leie-lokaler/ole-johan-dahls-hus/) (IFI), University of Oslo
 - **Format:** physical meetings; introductory presentations may be streamed on Zoom, but the discussion is in-room only
-- **Stay informed:** sign up to the email list **agentic-ai-network@trust-aicentre.no**
+- **Stay informed:** sign up to the [meeting announcement email list](https://sympa.uio.no/trust-aicentre.no/info/agentic-ai-network]
 
 More: [Logistics](docs/logistics.md)
 
