@@ -8,7 +8,7 @@ Theme: how to work *cumulatively* with agentic AI, so that what you build up ove
 
 ## Bjørn Høyland — AI agents in a research pipeline
 
-*Strategic roll-call requests, a data resource, and six months with Claude Code.*
+*Strategic roll-call requests, a data resource, and six months with Claude Code.* · [Slides (HTML)](../slide%20decks/Hoyland_ai_agents_slides.html)
 
 - **The research problem.** In the European Parliament, a roll-call vote is recorded only if a party group or 40 MEPs request it, so the recorded-vote sample is strategically selected. Høyland models the requests as a "best-shot" game solved as a quantal response equilibrium, with a likelihood that mixes two equilibria and is estimated by differential-evolution MCMC.
 - **Two deliverables.** The `rollcalls` R/C++ package implementing the estimator, with a Monte Carlo study and a replication showing that earlier findings weaken or vanish once strategy is modelled. The **StREP** data resource, which covers votes from the Common Assembly in 1952 to today's EP, vote requests, speeches, committee reports and procedures, with every observation traceable to document, page and line.
@@ -16,7 +16,7 @@ Theme: how to work *cumulatively* with agentic AI, so that what you build up ove
 
 ## Geir Kjetil Sandve — Using agentic AI to cumulatively improve what I make with agentic AI
 
-*Six months of one person's substrate.*
+*Six months of one person's substrate.* · [Slides (PDF)](../slide%20decks/26-09-18_Sandve_agenticCumulativeImprovement_v3.pdf)
 
 - **The question has changed shape.** No longer "can AI do this?" but "is there a process I could invent that would make AI useful here?"
 - **Every task leaves something the next task uses.** Converters, indexes over past material, a style guide, and so on, so the same kind of task needs less of him each time.

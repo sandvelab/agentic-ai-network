@@ -25,9 +25,10 @@ More: [Logistics](docs/logistics.md)
 
 | Date | Topic |
 |---|---|
-| Fri 9 Oct 2026 | **National and UiO resources for agentic AI** — nationally available LLMs, and skills for connecting agentic AI to UiO and national resources. Presentation by Lex Nederbragt. *(Moved from 2 Oct because of the autumn break.)* |
-| Fri 16 Oct 2026 | **No meeting.** Everyone in the network is instead invited to the TRUST workshop *Agentic AI: Development, Use & Governance* on **Monday 19 October**, 14:00–18:00 (see [Logistics](docs/logistics.md#related-events)). |
-| Then every other Friday | 30 Oct · 13 Nov · 27 Nov · 11 Dec — topics to be decided |
+| Mon 19 Oct 2026 | **TRUST workshop: *Agentic AI — Development, Use & Governance***, 14:00–18:00. Everyone in the network is invited; there is no regular meeting on Fri 16 Oct. See [Logistics](docs/logistics.md#related-events). |
+| Fri 30 Oct 2026 | **A multi-agent system for digital security.** Gencer Erdogan on how he and colleagues have set up a multi-agent system for digital security. |
+| Fri 13 Nov 2026 | **Agentic AI setups for collaborating across a team.** Presentations on shared agentic setups that a team can work on together, likely from SINTEF and IFI; open for further contributions. |
+| Then every other Friday | 27 Nov · 11 Dec — topics to be decided |
 
 Have a topic or an experience to share? See [How to take part and contribute](docs/taking-part.md).
 
@@ -36,7 +37,8 @@ Have a topic or an experience to share? See [How to take part and contribute](do
 | Date | Summary | Notes |
 |---|---|---|
 | Fri 4 Sep 2026 | **Kickstart.** Expectations and wishes for the group; agreed on a biweekly rhythm, a fully open invitation, no prerequisites and no obligation to present, and on a stable group of regular participants with discussion at the level of experienced users. | [Notes](docs/meetings/2026-09-04_kickstart.md) |
-| Fri 18 Sep 2026 | **Working cumulatively with agentic AI.** Bjørn Høyland on six months of building an agent-supported research pipeline in political science (strategic roll-call requests, the StREP data resource); Geir Kjetil Sandve on using agentic AI to cumulatively improve what he makes with agentic AI. | [Notes](docs/meetings/2026-09-18_workingCumulatively.md) |
+| Fri 18 Sep 2026 | **Working cumulatively with agentic AI.** Bjørn Høyland on six months of building an agent-supported research pipeline in political science (strategic roll-call requests, the StREP data resource); Geir Kjetil Sandve on using agentic AI to cumulatively improve what he makes with agentic AI. | [Notes](docs/meetings/2026-09-18_workingCumulatively.md) · Slides: [Høyland](docs/slide%20decks/Hoyland_ai_agents_slides.html), [Sandve](docs/slide%20decks/26-09-18_Sandve_agenticCumulativeImprovement_v3.pdf) |
+| Fri 9 Oct 2026 | **National and UiO resources for agentic AI.** Lex Nederbragt on how far you get with what UiO already offers: models through the GPT UiO API, Microsoft Foundry and Google Cloud, harnesses such as Codex and OpenCode, agents talking to UiO services like Canvas and Nettskjema, options for sensitive data, and costs. Answer: far enough. | [Notes](docs/meetings/2026-10-09_uioResources.md) · [Slides](docs/slide%20decks/261009_Lex_TRUST_Agentic_AI_study_group_en.pdf) |
 
 ## Veridical data science — agentic AI that reflects reality, reproducibly
 
