@@ -6,7 +6,8 @@
 
 Just come. There is no registration, and you are welcome to attend a couple of times to see whether the group suits you. If you decide to stay, we ask that you intend to come regularly. See [why stability matters](about-the-series.md#stability-is-the-point).
 
-To get invitations, sign up to the email list **agentic-ai-network@trust-aicentre.no** (see [Logistics](logistics.md#staying-informed)).
+To get invitations, sign up to the email list **agentic-ai-network@trust-aicentre.no**:
+[https://sympa.uio.no/trust-aicentre.no/review/agentic-ai-network](https://sympa.uio.no/trust-aicentre.no/review/agentic-ai-network)
 
 ## Contributing
 
