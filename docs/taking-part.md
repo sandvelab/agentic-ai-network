@@ -15,6 +15,7 @@ To get invitations, sign up to the email list **agentic-ai-network@trust-aicentr
 Contributing is welcome and never required. Useful contributions include:
 
 - **A short introduction** (10–20 minutes) to open a topical session: how you have set up agentic AI for a particular kind of work, a system you have built, something that failed and why.
+- **A quick introduction** (a few minutes, no slides) to a paper, blog post or other external resource on agentic AI, as a starting point for a short discussion. For the 27 November meeting, volunteer by replying to everyone on the email list with the title or URL of what you will introduce.
 - **A question or challenge** you would like the group to work through.
 - **A topic proposal** for a future session.
 

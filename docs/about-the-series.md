@@ -17,12 +17,13 @@ There is no manual, and nothing is settled. What exists is scattered individual 
 
 ## The format
 
-The group meets every other Friday. Meetings typically take one of two forms:
+In autumn 2026 the group meets every other Friday. Meetings typically take one of three forms:
 
 - **Exchange.** Members bring challenges, open questions or solutions they have found, and work through them together, including how they have restructured a piece of work around what an agent can now do.
 - **Topical sessions.** A topic or question is chosen in advance. One or two people give a short introduction from their own work, and the rest of the meeting is discussion. Sometimes everyone reads up on something or tries it out beforehand, and the meeting compares what they found.
+- **Quick introductions.** Up to four participants each give a very brief introduction to a paper, a blog post or another external resource on agentic AI, followed by a short discussion of each. It needs little preparation and no slides; the aim is to spur discussion.
 
-Neither form needs a curriculum. What the group covers is decided by the insights and preferences of its members.
+None of the forms needs a curriculum. What the group covers is decided by the insights and preferences of its members.
 
 ## The level
 
@@ -41,3 +42,7 @@ The invitation is open to everyone. If the group grows too large for a real disc
 The groups together form a network. Across it we will hold occasional joint meetings where groups present what they have been working on and compare experiences. Different groups will go down different paths and reach different conclusions on the same questions, and those differences are worth surfacing.
 
 People who would prefer to take part virtually are encouraged to form a virtual study group of their own, which can join the physical group for joint meetings.
+
+## From 2027
+
+From 2027 the series continues in an updated form: some meetings will be large and virtual, others physical and more informal. Details will be announced on the email list when the series starts up again in late January 2027.
